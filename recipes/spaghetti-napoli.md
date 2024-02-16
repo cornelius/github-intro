@@ -4,12 +4,13 @@
 
 * Pasta
 * Tomato
+* Basil
 * Cheese
 
 ## Instructions
 
 * Cook pasta
-* Prepare sauce
+* Prepare sauce and add basil
 * Serve with grated cheese
 
 Enjoy!
